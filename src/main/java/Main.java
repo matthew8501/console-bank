@@ -1,8 +1,5 @@
-import java.text.Format;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Formattable;
-import java.util.Formatter;
 
 public class Main {
     static void main() {
